@@ -1,0 +1,10 @@
+{ 
+   "cinnamon-theme": {
+   "name": "DarkMint", 
+   "author": "OriginalSeed", 
+   "version": "1.0",
+   "type":   "custom",
+   "thumbnail": "thumbnail.png", 
+   "url": "http://gnome-look.org/content/mycontent.php?PHPSESSID=61c36c27128bea5063436e6e7ddb1736" 
+    }
+}
